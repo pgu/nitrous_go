@@ -1,4 +1,4 @@
 nitrous_go
 ==========
 
-Go stuff on nitrous.io
+**Go** stuff on nitrous.io
